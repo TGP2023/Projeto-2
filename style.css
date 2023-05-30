@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    margin-top: 47px;
+    margin-left: 42px;
+
+}
+
+a {
+    margin-right: 36px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    cursor: pointer;
+    color: #17233D;
+
+}
+
+.entre {
+    Width: 124px;
+    Height: 51px;
+    font-weight: 500;
+    background: #6FBF44;
+    border: 1px solid #4CB538;
+    border-radius: 6px;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    border: none;
+    box-sizing: border-box;
+    cursor: pointer;
+
+}
+
+img {
+    Width: 595.18px;
+    Height: 500px;
+    display: inline-block;
+    margin-left: 121px;
+    margin-top: 163px;
+}
+
+section {
+    margin-left: 96.83px;
+    display: inline-block;
+
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    color: #161A49;
+    width: 582px;
+    height: 164px;
+    letter-spacing: 0.596154px;
+    margin-top: 259px;
+
+}
+
+p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    width: 493px;
+    height: 99px;
+    color: #4B505A;
+    margin-top: 47px;
+
+}
+
+.aprenda-mais {
+    margin-top: 55px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    background: transparent;
+    color: #6FBF44;
+    border: none;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 700px) {
+
+    .entre {
+        margin-left: 284px;
+
+
+    }
+
+    a {
+        display: none;
+    }
+
+    img {
+        
+        margin-top: 490px;
+
+    }
+
+    h1 {
+
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 30px;
+        
+        text-align: center;
+        letter-spacing: 0.596154px;
+        color: #161A49;
+
+
+    }
+
+    p {
+        width: 304px;
+        height: 165px;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 33px;
+        text-align: center;
+        letter-spacing: 0.5px;
+        color: #4B505A;
+    }
+
+}
