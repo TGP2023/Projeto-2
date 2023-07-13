@@ -7,7 +7,10 @@
 <br>   
 <br>   
 <h1> Tecnologias utilizadas<h2>
+  
 <br>
-  <p>-  <img src="https://github.com/TGP2023/Projeto-2/blob/master/img/Captura%20de%20tela%202023-07-13%20185527.png">
-  <p>-  <img src="">
+  <p>-  
+    
+    <img src="https://github.com/TGP2023/Projeto-2/blob/master/img/Captura%20de%20tela%202023-07-13%20185527.png">
+  <img src="https://github.com/TGP2023/Projeto-2/blob/master/img/Captura%20de%20tela%20celular.png">
 
